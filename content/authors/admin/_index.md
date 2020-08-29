@@ -71,6 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jilin Hu is a tenure-track assistant professor in Department of Computer Science at Aalborg University. He was a Research Assocaite at Inception Institute of Artificial Intelligence, UAE under the supervision of Prof. Jianbing Shen. He obtained the Ph.D. degree from Aalborg Unviersity in 2019, under the supervision of Prof. Christian S. Jensen and Prof. Bin Yang. From Oct. 2017 to April. 2018, he visited University of California, Berkeley under the supervision of Prof. Bayern.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
