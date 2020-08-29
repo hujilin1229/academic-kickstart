@@ -100,7 +100,7 @@ address = {street = "Selma Lagerlöfs Vej 300", city = "Aalborg Øst", postcode 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
-coordinates = {latitude = "9.9893675", longitude = "57.0123924"}
+coordinates = {latitude = "57.0123924", longitude = "9.9893675"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
