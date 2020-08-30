@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Aalborg University
+    institution: Aalborg University, Denmark
     year: 2019
   - course: MSc in Control Theory
-    institution: Shanghai Jiao Tong University
+    institution: Shanghai Jiao Tong University, China
     year: 2014
 #- course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
