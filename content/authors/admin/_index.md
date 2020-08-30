@@ -50,8 +50,8 @@ social:
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  icon_pack: fab
+  link: https://scholar.google.dk/citations?user=6eSvRMkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/hujilin1229
